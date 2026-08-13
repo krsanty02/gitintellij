@@ -5,6 +5,7 @@ public class A {
         System.out.println("A");
         System.out.println("A1");
          System.out.println("B1");
+         System.out.println("c");
     }
 
 }
