@@ -5,6 +5,7 @@ public class C {
         System.out.println("C");
         System.out.println("C1");
         System.out.println("C2");
+        System.out.println("C3");
     }
 
 }
