@@ -7,6 +7,7 @@ public class C {
         System.out.println("C2");
         System.out.println("C3");
         System.out.println("harami");
+        System.out.println("hii");
     }
 
 }
