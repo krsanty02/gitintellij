@@ -5,5 +5,6 @@ public class B {
         System.out.println("B");
         System.out.println("B3");
         System.out.println("H");
+        System.out.println("I");
     }
 }
